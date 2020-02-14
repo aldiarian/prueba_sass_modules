@@ -1,0 +1,9 @@
+
+@use "modulos/botones.scss";
+
+$body-color: red;
+
+.miboton{
+  color: $body-color;
+  background-color: botones.$backgroundcolor;
+}
